@@ -145,7 +145,7 @@ export default function LoginPage() {
               transition={{ delay: 0.5, duration: 0.8 }}
               className="bg-white/10 backdrop-blur-sm p-8 rounded-xl border border-white/20 shadow-2xl max-w-md text-white"
             >
-              <h2 className="text-3xl font-bold mb-4">Vergabevermerk Portal</h2>
+              <h2 className="text-3xl font-bold mb-4">Intelligente Vergabe</h2>
               <p className="text-lg mb-6">
                 Effiziente Zusammenarbeit und Dokumentation für Vergabeverfahren im öffentlichen Sektor
               </p>
